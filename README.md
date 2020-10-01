@@ -1,4 +1,4 @@
-# Unicode-Website
+# Unicode-Website - An Amezing project
 
 #### The official DJ Unicode Website repository.
 
@@ -17,7 +17,7 @@ Django: 2.2.8 version
 
 - [x] Projects Info
 - [x] Blogs
-- [x] Newsletter SignUp
+- [x] Newsletter Sign
 - [x] Events Registration
 - [ ] Resource Portal
 - [ ] Admin Dashboard
